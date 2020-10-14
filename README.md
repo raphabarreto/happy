@@ -72,10 +72,10 @@ O <strong>Happy</strong> serve como uma plaforma de conexão com instituições 
 </h1>
 
 
-## 🌐 Frontend - Em construção
-<!-- <h1 align="center">
+## 🌐 Frontend
+<h1 align="center">
     <img alt="happy Front-end" title="#delicinha" src=".github/happy-frontend.gif" />
-</h1> -->
+</h1>
 
 ___
 
@@ -85,26 +85,11 @@ ___
 </h1> -->
 ---
 
-## 🔥 Instalação - Em construção
-<!-- 
+## 🔥 Instalação
+
 ```bash
-# Navegue em cada pasta: server / web / mobile e instale as depedências:
-$ yarn install
-
-# Navegue até a pasta server e execute os seguintes comandos:
-$ yarn knex:migrate
-$ yarn start
-
-# Depois disso, entre na pasta web e execute o comando:
-$ yarn start
-$ acesse a url -> http://localhost:3000
-
-# E finalmente, entre na pasta mobile e execute o comando - somente para Android:
-$ expo start
-
-# Observações:
-- Não esqueça de mudar a baseURL no arquivo api.ts das pastas web e mobile para o ip da sua máquina caso queira testar o aplicativo mobile no seu dispositivo físico.
-``` -->
+Visite cada repositório que contém um README, explicando o passo a passo.
+```
 ---
 
 ## 🤔 Como contribuir

@@ -77,13 +77,13 @@ O <strong>Happy</strong> serve como uma plaforma de conexão com instituições 
     <img alt="happy Front-end" title="#delicinha" src=".github/happy-frontend.gif" />
 </h1>
 
-___
 
-## 📱 Mobile - Em construção
-<!-- <h1 align="center">
-    <img alt="happy Mobile" title="#delicinha" src=".github/happy-mobile.gif" />
-</h1> -->
----
+
+## 📱 Mobile
+<h1 align="center">
+    <img alt="happy Mobile" title="#delicinha" src=".github/happy-mobile.gif" width="250px" />
+</h1>
+
 
 ## 🔥 Instalação
 
